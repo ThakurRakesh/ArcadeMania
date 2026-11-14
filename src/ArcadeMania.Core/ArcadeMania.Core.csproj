@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>ArcadeMania.Core</RootNamespace>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Vector drawing API shared with .NET MAUI (MIT, free, no usage limits). Same major version as MAUI 10. -->
+    <PackageReference Include="Microsoft.Maui.Graphics" Version="10.0.*" />
+  </ItemGroup>
+
+</Project>

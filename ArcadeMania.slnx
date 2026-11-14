@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ArcadeMania.App/ArcadeMania.App.csproj" />
+    <Project Path="src/ArcadeMania.Core/ArcadeMania.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ArcadeMania.Tests/ArcadeMania.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/ArcadeMania.Shots/ArcadeMania.Shots.csproj" />
+  </Folder>
+</Solution>
